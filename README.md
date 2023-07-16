@@ -1,3 +1,3 @@
-# plugin-sentry-js
+# Bellows Sentry JS Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/sentry-js](https://bellows.dev/docs/plugins/sentry-js)
